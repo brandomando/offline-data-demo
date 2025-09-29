@@ -1,0 +1,4 @@
+<group method="table" to_int="age">
+{{ ip | IP }} {{ age | replace("-", "-1") }} {{ mac | re("INCOMPLETE") }} {{ interface | resuball("short_interface_names") }}
+{{ ip | IP }} {{ age | replace("-", "-1") }} {{ mac | mac_eui }} {{ interface | resuball("short_interface_names") }}
+</group>
