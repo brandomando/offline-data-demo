@@ -18,12 +18,12 @@ Software
              Module not detected
   CXP Microcontroller Firmware:
              Module not detected
-  kickstart: version 7.2(4)N1(1)
-  system:    version 7.2(4)N1(1)
+  kickstart: version 7.1(4)N1(1)
+  system:    version 7.1(4)N1(1)
   BIOS compile time:       05/09/2012
-  kickstart image file is: bootflash:///n5000-uk9-kickstart.7.2.4.N1.1.bin
+  kickstart image file is: bootflash:///n5000-uk9-kickstart.7.1.4.N1.1.bin
   kickstart compile time:  9/2/2016 10:00:00 [09/02/2016 19:37:35]
-  system image file is:    bootflash:///n5000-uk9.7.2.4.N1.1.bin
+  system image file is:    bootflash:///n5000-uk9.7.1.4.N1.1.bin
   system compile time:     9/2/2016 10:00:00 [09/02/2016 21:16:21]
 
 
