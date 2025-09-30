@@ -1,3 +1,145 @@
 {
-    "offline_commands": true
+  "offline_commands": true,
+  "command_outputs": {
+    "show_ip_arp": [
+      {
+        "age": "00:00:57",
+        "interface": "Ethernet1/41",
+        "ip": "1.1.1.2",
+        "mac": "3c:60:f4:0e:f9:c3"
+      },
+      {
+        "age": "00:01:02",
+        "interface": "Ethernet1/47",
+        "ip": "1.0.11.2",
+        "mac": "3c:60:f4:0e:f9:c4"
+      },
+      {
+        "age": "00:06:06",
+        "interface": "mgmt0",
+        "ip": "10.3.1.101",
+        "mac": "d4:6d:50:31:88:b0"
+      },
+      {
+        "age": "00:18:18",
+        "interface": "mgmt0",
+        "ip": "10.3.1.102",
+        "mac": "e0:ac:b1:6b:e9:40"
+      },
+      {
+        "age": "00:17:17",
+        "interface": "mgmt0",
+        "ip": "10.3.1.104",
+        "mac": "e5:ac:b1:6c:aa:c8"
+      },
+      {
+        "age": "00:13:08",
+        "interface": "mgmt0",
+        "ip": "10.3.1.105",
+        "mac": "d4:6d:50:3c:be:b0"
+      },
+      {
+        "age": "00:15:11",
+        "interface": "mgmt0",
+        "ip": "10.3.0.20",
+        "mac": "48:7b:6b:ad:7b:36"
+      },
+      {
+        "age": "00:14:56",
+        "interface": "mgmt0",
+        "ip": "10.3.0.250",
+        "mac": "00:00:0c:9f:fa:14"
+      },
+      {
+        "age": "00:07:08",
+        "interface": "mgmt0",
+        "ip": "10.3.0.251",
+        "mac": "03:c5:a4:e8:c3:42"
+      },
+      {
+        "age": "00:14:14",
+        "interface": "mgmt0",
+        "ip": "10.3.0.252",
+        "mac": "02:c5:a4:ea:56:c2"
+      },
+      {
+        "age": "00:00:57",
+        "interface": "Vlan10",
+        "ip": "192.168.10.12",
+        "mac": "8c:60:00:12:00:12"
+      },
+      {
+        "age": "00:09:49",
+        "interface": "Ethernet1/1.2151",
+        "ip": "10.45.69.110",
+        "mac": "70:e4:22:5a:5e:6a"
+      },
+      {
+        "age": "00:00:05",
+        "interface": "Ethernet1/2.2151",
+        "ip": "10.45.69.106",
+        "mac": "d4:6d:50:1e:2a:92"
+      },
+      {
+        "age": "00:00:57",
+        "interface": "Vlan2051",
+        "ip": "10.225.19.113",
+        "mac": "8c:60:f4:0e:f9:c3"
+      },
+      {
+        "age": "00:00:57",
+        "interface": "Vlan2003",
+        "ip": "10.254.254.113",
+        "mac": "8b:60:f4:0e:f9:c3"
+      },
+      {
+        "age": "00:09:51",
+        "interface": "Ethernet1/1.2051",
+        "ip": "10.225.19.110",
+        "mac": "7e:e4:22:5a:5e:6a"
+      },
+      {
+        "age": "00:00:05",
+        "interface": "Ethernet1/2.2051",
+        "ip": "10.225.19.106",
+        "mac": "a1:6d:50:1e:2a:92"
+      },
+      {
+        "age": "00:00:05",
+        "interface": "Ethernet1/2.2003",
+        "ip": "10.254.254.106",
+        "mac": "a1:6d:50:1e:2a:92"
+      },
+      {
+        "age": "00:09:50",
+        "interface": "Ethernet1/1.2003",
+        "ip": "10.254.254.110",
+        "mac": "1e:e4:12:5a:5e:6a"
+      },
+      {
+        "age": "00:09:50",
+        "interface": "Ethernet1/1.2103",
+        "ip": "10.15.154.110",
+        "mac": "1e:e4:12:5a:5e:6a"
+      },
+      {
+        "age": "00:00:06",
+        "interface": "Ethernet1/2.2103",
+        "ip": "10.15.154.106",
+        "mac": "d4:6d:30:1e:2a:92"
+      },
+      {
+        "age": -1,
+        "interface": "Vlan2515",
+        "ip": "10.215.51.250",
+        "mac": "00:00:0c:9f:f9:d3"
+      },
+      {
+        "age": "00:00:16",
+        "interface": "Vlan1425",
+        "ip": "10.5.6.10",
+        "mac": "INCOMPLETE"
+      }
+    ]
+  }
 }
