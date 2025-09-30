@@ -1,0 +1,63 @@
+{
+  "offline_commands": true,
+  "command_outputs": {
+    "show_ip_arp": [
+      {
+        "age": -1,
+        "interface": "Ethernet0/1",
+        "ip": "172.16.233.229",
+        "mac": "00:00:0c:59:f8:92",
+        "protocol": "Internet",
+        "type": "ARPA"
+      },
+      {
+        "age": -1,
+        "interface": "Ethernet0/0",
+        "ip": "172.16.233.218",
+        "mac": "00:00:0c:07:ac:00",
+        "protocol": "Internet",
+        "type": "ARPA"
+      },
+      {
+        "age": -1,
+        "interface": "Ethernet0/0",
+        "ip": "172.16.233.19",
+        "mac": "00:00:0c:63:13:00",
+        "protocol": "Internet",
+        "type": "ARPA"
+      },
+      {
+        "age": -1,
+        "interface": "Ethernet0/0",
+        "ip": "172.16.233.209",
+        "mac": "00:00:0c:36:69:65",
+        "protocol": "Internet",
+        "type": "ARPA"
+      },
+      {
+        "age": -1,
+        "interface": "Ethernet0/0",
+        "ip": "172.16.168.11",
+        "mac": "00:00:0c:63:13:00",
+        "protocol": "Internet",
+        "type": "ARPA"
+      },
+      {
+        "age": 9,
+        "interface": "Ethernet0/0",
+        "ip": "172.16.168.254",
+        "mac": "00:00:0c:36:69:65",
+        "protocol": "Internet",
+        "type": "ARPA"
+      },
+      {
+        "age": -1,
+        "interface": "Uncknown",
+        "ip": "10.0.0.0",
+        "mac": "aa:bb:cc:03:82:00",
+        "protocol": "Internet",
+        "type": "SRP-A"
+      }
+    ]
+  }
+}
