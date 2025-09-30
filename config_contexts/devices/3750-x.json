@@ -58,6 +58,9 @@
         "protocol": "Internet",
         "type": "SRP-A"
       }
-    ]
+    ],
+    "show_version": {
+        "version": "15.9(3)M2"
+    }
   }
 }
