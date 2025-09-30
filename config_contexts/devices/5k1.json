@@ -141,8 +141,10 @@
         "mac": "INCOMPLETE"
       }
     ],
-    "show_version": {
+    "show_version": [
+      {
         "os": "7.2(4)N1(1)"
-    }
+      }
+    ]
   }
 }
